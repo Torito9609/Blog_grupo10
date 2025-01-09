@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url("https://th.bing.com/th/id/OIP.7zUUbC8qvb7Bw79_hEmDGgHaEK?rs=1&pid=ImgDetMain"); /* Cambia esta URL por la ruta de tu imagen */
+  background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+  background-position: center; /* Centra la imagen en la pantalla */
+  background-attachment: fixed; /* Fija la imagen al fondo cuando se haga scroll */
+  color: #fff; /* Cambia el color del texto para asegurar que sea legible sobre el fondo */
+  font-family: Arial, sans-serif; /* Cambia la tipografía si lo deseas */
+}
