@@ -11,3 +11,9 @@ body {
   color: #fff; /* Cambia el color del texto para asegurar que sea legible sobre el fondo */
   font-family: Arial, sans-serif; /* Cambia la tipografía si lo deseas */
 }
+
+header {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fclubmamasypapas.com%2Fcontenidos%2Fpost%2Ftop-5-de-juegos-para-la-estimulacion-temprana-de-mi-bebe&psig=AOvVaw3Wfsz1LXiHXkfg3mq5M_mO&ust=1736541188143000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiKx5e-6YoDFQAAAAAdAAAAABAE");
+  background-size: cover;
+  height: 40vh;
+}
