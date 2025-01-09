@@ -1,0 +1,47 @@
+#contactenos {
+    min-height: 100vh;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), 
+                url('https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover; 
+    background-position: center;
+    color: #fff;
+    padding: 80px 0;
+}
+
+#contactenos h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#contactenos p {
+    font-size: 1rem;
+}
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+}
+
+.form-control::placeholder {
+    color: #ccc;
+}
+
+.form-control:focus {
+    background-color: rgba(255, 255, 255, 0.3);
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-primary {
+    background-color: #ff4500;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #bac703;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
