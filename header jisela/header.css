@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+header {
+    background-image: url(./img/estimulacion.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
